@@ -6,11 +6,7 @@
 		<meta charset="ISO-8859-1">
 		<title>Envio de Documentos</title>
 		<style>
-			body { 
-				border: 3px solid #f1f1f1;
-				font-family: Arial, Helvetica, sans-serif; 
-			}
-			
+			body { font-family: Arial, Helvetica, sans-serif; }
 			h4 { text-align: center; }
 		
 			input[type=file] {
@@ -31,14 +27,8 @@
 			}
 
 			button:hover { opacity: 0.8; }
-
-			.btn-enviar {
-  				background-color: #04AA6D;
-  				color: white;
-  				padding: 10px 18px;
-			}
-		
-			.container { padding: 16px; }
+			.btn-enviar { background-color: #04AA6D; color: white; padding: 10px 18px; }
+			.container { padding: 16px; border: 3px solid #f1f1f1; }
     	</style>
 	</head>
 	<body>

@@ -30,19 +30,9 @@
 			}
 
 			button:hover { opacity: 0.8; }
-
-			.btn-cadastro {
-  				background-color: #3366ff;
-  				padding: 10px 18px;
-  				width: auto;
-			}
-
+			.btn-cadastro { background-color: #3366ff; padding: 10px 18px; width: auto; }
 			.container { padding: 16px; }
-
-			span.senha {
-  				float: right;
-  				padding-top: 16px;
-			}
+			span.senha { float: right; padding-top: 16px; }
 		</style>
 	</head>
 	<body>
