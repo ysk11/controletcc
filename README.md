@@ -1,3 +1,3 @@
 # controletcc
 
-link do vídeos: https://vimeo.com/766684774/234bfba1f1
+link do vídeo da apresentação do projeto: https://vimeo.com/766684774/234bfba1f1
